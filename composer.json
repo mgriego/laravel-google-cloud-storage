@@ -30,7 +30,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/mgriego/flysystem-google-storage"
+      "url": "https://github.com/mgriego/flysystem-google-cloud-storage"
     }
   ]
 }
