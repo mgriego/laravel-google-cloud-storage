@@ -1,5 +1,5 @@
 {
-  "name": "mgriego/laravel-google-cloud-storage",
+  "name": "sheknows/laravel-google-cloud-storage",
   "description": "A Google Cloud Storage filesystem for Laravel",
   "license": "MIT",
   "authors": [
@@ -11,7 +11,7 @@
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^5.2|^5.3",
-    "mgriego/flysystem-google-storage": "dev-master",
+    "sheknows/flysystem-google-storage": "dev-master",
     "illuminate/filesystem": "^5.2|^5.3"
   },
   "autoload": {
@@ -30,7 +30,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/mgriego/flysystem-google-storage"
+      "url": "https://github.com/sheknows/flysystem-google-storage"
     }
   ]
 }
